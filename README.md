@@ -9,3 +9,5 @@ power definitions are kept in `tdlCode`, which acts as the main data source for 
 the simulation can switch between tdl's forms, process attacks against targets, track health and energy, handle power requirements, and simulate effects such as corrosion, resistance, reconstruction, and the fused virus state.
 
 the main idea is to experiment with tdl as if his abilities were part of a modifiable character system rather than hardcoded behavior.
+
+![](tdl.png)
